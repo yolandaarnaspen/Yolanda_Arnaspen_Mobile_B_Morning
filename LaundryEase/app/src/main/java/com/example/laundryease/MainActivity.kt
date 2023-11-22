@@ -1,4 +1,4 @@
-package com.example.Macro
+package com.example.laundryease
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
